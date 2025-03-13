@@ -1,5 +1,7 @@
-<b> Project Title :
+# Project Title
+Test
 
+## Project Description
 This Power BI analysis containts marketing analysis towards beauty brand penetration in Jakarta. The scope of analysis covers :
 a. Customer segmentation 
 b. Store level analysis
